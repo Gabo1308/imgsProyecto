@@ -1,0 +1,21 @@
+{
+    "FotosPerfil": [
+        {
+            "icono": "bi-instagram",
+            "usuario": "moon_ie26",
+            "link": "https://www.instagram.com/moon_ie26/"
+        },
+
+        {
+            "icono": "bi-twitter",
+            "usuario": "@ami97051793",
+            "link": "https://x.com/ami97051793"
+        },
+        
+        {
+            "icono": "bi-facebook",
+            "usuario": "Amanda Gómez",
+            "link": "https://www.facebook.com/profile.php?id=100046433016745"
+        }
+    ]
+}
